@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daksh+Gakhar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey 10&weight=1000&size=35&pause=500&center=true&vCenter=true&width=500&height=70&lines=I+am+Daksh+Gakhar;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
