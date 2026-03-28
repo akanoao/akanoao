@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=broadway&weight=1000&size=35&pause=500&center=true&vCenter=true&repeat=false&width=500&height=70&color=6cc644&lines=もしもし;I+am+Daksh+Gakhar;" />
 </h1>
 
- <a href="https://github.com/THEGAMECHANGER416">
+ <a href="https://github.com/akanoao">
     <img src="https://github.com/THEGAMECHANGER416/THEGAMECHANGER416/blob/main/resources/grid-snake.svg" alt="snake">
   </a>
 <h2 align="center">Computer Science Engineer</h2>
