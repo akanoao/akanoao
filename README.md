@@ -14,9 +14,8 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Web Development and AI/ML**
 
-💀 **Also Dead Inside**
+💀 **Dead Inside**
 
  </div>
 
